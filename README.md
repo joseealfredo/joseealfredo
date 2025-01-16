@@ -84,7 +84,6 @@ Si tienes dudas o sugerencias, puedes contactarme a través de:
 - **Redes Sociales:**
   - Instagram: [jose.ealfredo](https://instagram.com/jose.ealfredo)
   - Twitter: [jose.ealfredo](https://twitter.com/Jose_ealfredo)
-  - LinkedIn: [jose.ealfredo](https://linkedin.com/in/jose.ealfredo)
   - Facebook: [jose.ealfredo](https://www.facebook.com/share/15kAFVSLcM/)
 
 ---
