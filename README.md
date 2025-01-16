@@ -61,12 +61,6 @@ Pain-Cybersecurity/
 
 ---
 
-## 🌠 **Previsualización**
-
-![Preview](https://media.giphy.com/media/KzWq51XnMI6q8/giphy.gif)
-
----
-
 ## 🥷 **Contribuciones**
 
 ¡Aceptamos contribuciones de todos los ninjas! Si tienes una idea, crea un **issue** o envía un **pull request**. Recuerda seguir las reglas de la aldea:
